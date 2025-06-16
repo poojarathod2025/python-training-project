@@ -16,9 +16,9 @@
 # print(i)-2
 
 # packing unpacking
-# t = 10,"hello",True
+# t = 10,"hello",True-packing
 # print(type(t))
-# a,b,c,d = t-packing
+# a,b,c = t-unpacking
 # print(b)
 
 # how to check tuple is faster than list 
@@ -30,3 +30,4 @@
 # list_time = timeit.timeit("for i in data_list:pass",setup=setup,number=1)
 # print(list_time,"list time")
 # print(tuple_time,"tuple time")
+
