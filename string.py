@@ -43,10 +43,10 @@
 # print('i\bts me')
 
 # methods of String 
-s = "hello world"
+# s = "hello world"
 # print(s.strip())-removes whitespace
 # print(s.upper())-HELLO WORLD
 # print(s.lower())-hello world
 # print(s.replace("world","python"))-hello Python 
 # print(s.split())-'hello','world'
-print(s.find("lo"))
+# print(s.find("lo"))-3
